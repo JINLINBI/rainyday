@@ -1,0 +1,8 @@
+*tmp/
+.vscode/
+*.[oa]
+*.lo
+a.out
+build/
+3rd/*
+!3rd/packages/

@@ -1,2 +1,3 @@
-./build.sh
-bin/game_engine
+./build.sh $1
+cd bin
+./game_engine
